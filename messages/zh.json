@@ -1,34 +1,34 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本,AI全程助力"
+    "name": "CIT",
+    "solgan": "探索世界,增长见识"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "CIT"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "大学生穷旅规划平台",
+      "description": "受限于有限的资金和时间，为大学生量身打造一套全面的穷游规划服务，实现“少花钱、多办事”的旅行目标。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "智能地点推荐",
+        "description": "兴趣匹配、预算范围、特色体验。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "住宿优化选择",
+        "description": "根据目的地热门景点分布、智能推荐性价比高。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "交通方案定制",
+        "description": "综合考虑、提供多种交通组合方案。"
       },
       "aiTools": {
         "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "description": "对用户输入进行深度解析，精准匹配用户需求。"
       }
     },
     "Testimonials": {
@@ -36,25 +36,25 @@
       "testimonial1": {
         "name": "Sarah Johnson",
         "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "content": "CIT彻底改变了我的旅游体验。特别适合受限于有限的资金和时间的群体！"
       },
       "testimonial2": {
         "name": "Michael Lee",
         "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "content": "CIT的场景布局美观简洁以及AI助手让我能轻松可视化。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "数据分析",
+        "content": "AI辅助工具精准的匹配用户需求"
       }
     },
     "Header": {
       "workflow": "工作流程",
       "features": "功能",
       "about": "关于我们",
-      "pricing": "定价",
-      "signUp": "注册"
+      "pricing": "下载",
+      "signUp": "登陆"
     },
     "Footer": {
       "about": "关于我们",
@@ -66,16 +66,16 @@
       "helpCenter": "帮助中心",
       "tutorials": "教程",
       "contact": "联系我们",
-      "email": "support@scriptcraft.com",
+      "email": "support@CIT.com",
       "address1": "123 编剧大道",
       "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
-      "startFreeTrial": "开始免费试用",
-      "copyright": "© 2023 ScriptCraft。保留所有权利。"
+      "cta": "今天开始您旅程",
+      "startFreeTrial": "",
+      "copyright": "© 2023 CIT。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "title": "场景by场景，精心打造您的旅程",
+      "imageAlt": "CIT界面"
     }
   },
   "Dashboard": {
